@@ -1,2 +1,4 @@
 #no .DS_Store file
 *.DS_Store
+#no .idea file
+*.idea
